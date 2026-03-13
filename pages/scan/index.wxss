@@ -1,0 +1,1 @@
+.loading-ring.data-v-d6e58367{width:48px;height:48px;border-radius:50%;border:1px solid rgba(202,138,4,.2);border-top-color:#ca8a04;animation:spin-d6e58367 1s linear infinite}@keyframes spin-d6e58367{0%{transform:rotate(0)}to{transform:rotate(360deg)}}

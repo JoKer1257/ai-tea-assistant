@@ -1,0 +1,87 @@
+{
+  "pages": [
+    {
+      "path": "pages/tea-home/index",
+      "style": {
+        "navigationBarTitleText": "雅鉴茶坊",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/welcome/index",
+      "style": {
+        "navigationBarTitleText": "茶小知",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/demo/cloudbase",
+      "style": {
+        "navigationBarTitleText": "CloudBase 演示",
+        "navigationBarBackgroundColor": "#F2EFE9"
+      }
+    },
+    {
+      "path": "pages/scan/index",
+      "style": {
+        "navigationBarTitleText": "扫码溯源",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/brand/index",
+      "style": {
+        "navigationBarTitleText": "品牌主页",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/product/index",
+      "style": {
+        "navigationBarTitleText": "产品详情",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/chat/index",
+      "style": {
+        "navigationBarTitleText": "AI 品茶助手",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/lottery/index",
+      "style": {
+        "navigationBarTitleText": "惊喜抽奖",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/result/index",
+      "style": {
+        "navigationBarTitleText": "品鉴纪要",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/coupons/index",
+      "style": {
+        "navigationBarTitleText": "我的票券",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/user/index",
+      "style": {
+        "navigationBarTitleText": "个人中心",
+        "navigationStyle": "custom"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "茶小知",
+    "navigationBarBackgroundColor": "#F2EFE9",
+    "backgroundColor": "#F2EFE9"
+  }
+}

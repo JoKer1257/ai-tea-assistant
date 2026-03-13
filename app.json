@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/tea-home/index",
+    "pages/welcome/index",
+    "pages/demo/cloudbase",
+    "pages/scan/index",
+    "pages/brand/index",
+    "pages/product/index",
+    "pages/chat/index",
+    "pages/lottery/index",
+    "pages/result/index",
+    "pages/coupons/index",
+    "pages/user/index"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "茶小知",
+    "navigationBarBackgroundColor": "#F2EFE9",
+    "backgroundColor": "#F2EFE9"
+  },
+  "usingComponents": {}
+}

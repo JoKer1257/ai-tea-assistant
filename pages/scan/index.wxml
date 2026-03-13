@@ -1,0 +1,1 @@
+<view class="min-h-screen flex-col items-center justify-center data-v-d6e58367" style="background:var(--theme-bg,#F2EFE9);display:flex"><view class="loading-ring data-v-d6e58367"/><text class="text-xs tracking-widest data-v-d6e58367" style="color:var(--theme-text-sub,#78716C);letter-spacing:0.3em;font-size:13px;margin-top:16px">正在为您准备...</text></view>

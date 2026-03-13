@@ -1,0 +1,17 @@
+{
+  "envId": "prod-2gijgxup3e1a84b0",
+  "functionRoot": "./cloudfunctions",
+  "storageRoot": "./storage",
+  "staticHosting": {
+    "enable": true,
+    "index": "index.html",
+    "error": "index.html",
+    "rules": [
+      {
+        "source": "**",
+        "target": "/index.html",
+        "type": "rewrite"
+      }
+    ]
+  }
+}
